@@ -1,6 +1,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+#define ll long long int
 void ans(int w1, w2, w3){
     if(w1 + w2 <= d && w3 <= e){
 	        cout<<"yes\n";
